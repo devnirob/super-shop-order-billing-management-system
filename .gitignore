@@ -1,0 +1,19 @@
+# Compiled programs and IDE output
+super_shop
+super_shop.exe
+*.o
+*.obj
+*.out
+bin/
+obj/
+.vscode/
+.idea/
+
+# Local inventory, sales records and receipts
+products.txt
+orders.txt
+receipt_*.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
